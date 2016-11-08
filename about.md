@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" layout="responsive" src="/assets/images/charles.jpg"></amp-img>
+<img width="600" layout="responsive" src="/assets/images/charles.jpg">
 
 Michael Morisy is the founder and president of non-profit investigative news site MuckRock. He is also the content director for ITPro.
 
